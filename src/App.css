@@ -1,0 +1,31 @@
+.signdiv button {
+  background-color: #4CAF50;
+  color: #ffffff;
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input{
+  color: black;
+  background-color: rgba(245, 245, 220, 0);
+}
+.backgroundSign{
+  background-image: url('burgerWallpaper.png');
+  position: fixed;
+  text-align: center;
+  min-height: 100%;
+  min-width: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.cart-items{
+  margin-top: 100px;
+  position: fixed;
+  left: 1000px;
+  background-color: aqua;
+  width: 20%;
+  padding: 10px 10px;
+  border-radius: 8px;
+}
